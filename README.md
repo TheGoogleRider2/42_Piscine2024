@@ -11,6 +11,8 @@ This includes:
 - **Piscine C03** - **ex00-05**
 - **Piscine C04** - **ex00-03**
 - **Piscine C06** - **ex00-03**
+- **Piscine Rush01** (**not completed** and most of the code was written by my teammate)
+- **Piscine Rush02** (**not completed** and most of the code was written by my teammate)
 
 (Tip: there's really no need to do C05 as it's mostly high level mathamatical stuff, if you want to learn for the Final Exam, C06 is much more useful as it contains argc & argv which is important for the exam)
 
